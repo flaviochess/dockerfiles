@@ -11,8 +11,8 @@ For this it is necessary add the lower_case_table_names config. This dockerfile 
 `lower_case_table_names = 1`
 
 ### Infos
-* Image: flaviochess/mysql-case_sensitive_false:5.7
-* Docker hub: https://hub.docker.com/r/flaviochess/mysql-case_sensitive_false
+* **Image:** flaviochess/mysql-case_sensitive_false:5.7
+* **Docker hub:** https://hub.docker.com/r/flaviochess/mysql-case_sensitive_false
 
 ### Tips
 For run a container and create a database and set root user password:
